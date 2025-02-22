@@ -50,7 +50,7 @@ npm install
 ### 3️⃣ Set Up Environment Variables
 Create a `.env` file in the root directory and add the following:
 ```env
-MONGO_URI=mongodb+srv://yourusername:yourpassword@cluster.mongodb.net/inotebook
+MONGO_URI=Your_MONGO_URI
 SECRET=your_jwt_secret_key
 ```
 
